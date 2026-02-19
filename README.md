@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋 I'm Gouri Nandana
 
-<!--
-**Gouri-Nandana11/Gouri-Nandana11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 🎓 BCA Graduate  
+- 📚 Currently Pursuing MCA  
+- 💻 Passionate about Full-Stack Web Development  
 
-Here are some ideas to get you started:
+## 🛠 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Programming Languages
+- C
+- Java
+- Python
+
+### 🌐 Frontend
+- React.js
+- HTML5
+- CSS3
+
+### 🔧 Backend
+- Node.js
+- Express.js
+
+### 🗄 Database
+- MySQL
+- MongoDB
+
+### 🛠 Tools
+- Git
+- GitHub
+- VS Code
